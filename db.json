@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "6dd0",
+      "Prenom": "Wissem",
+      "Nomfamille": "Manai",
+      "email": "rg@gmail.com",
+      "date": "2024-06-13T23:00:00.000Z",
+      "Genre": "homme",
+      "education": "bac+5",
+      "Entreprise": "f",
+      "Experiences": "2",
+      "Salaire": "1200"
+    },
+    {
+      "id": "7ef7",
+      "Prenom": "jena ",
+      "Nomfamille": "jack",
+      "email": "admin@gmail.com",
+      "date": "1999-12-31T23:00:00.000Z",
+      "Genre": "homme",
+      "education": "bac +1",
+      "Entreprise": "tunisa",
+      "Experiences": "2",
+      "Salaire": "800"
+    },
+    {
+      "id": "cb6f",
+      "Prenom": "ali",
+      "Nomfamille": "safdooi",
+      "email": "da^gmail.com",
+      "date": "2016-06-12T23:00:00.000Z",
+      "Genre": "Femme",
+      "education": "bac +1",
+      "Entreprise": "lol",
+      "Experiences": "3",
+      "Salaire": "1000"
+    },
+    {
+      "id": "8b54",
+      "Prenom": "hama",
+      "Nomfamille": "ali",
+      "email": "sa@yuahho.fra",
+      "date": "1997-06-09T23:00:00.000Z",
+      "Genre": "",
+      "education": "",
+      "Entreprise": "dijea",
+      "Experiences": "2",
+      "Salaire": "1010"
+    }
+  ]
+}
